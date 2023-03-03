@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://telegra.ph/file/1fed33d77671e79fe2c30.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/fea81007da37acc151d47.jpg" alt="nz" width="350"/>
 </p>
 
-## ***Hitman***
+## ***ELAINA***
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
